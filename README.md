@@ -1,4 +1,5 @@
 # Yuk Praktek menggunakan Wordpress untuk Berbagai keperluan!
+Pengen punya website bisnis yang keren? Atau mungkin mau bikin blog pribadi yang unik? Dengan WordPress, semua itu bisa diwujudkan. Disini kita bakal belajar bareng gimana sih cara bikin website yang profesional dan menarik perhatian banyak pengunjung? Belajar dari dasar CMS Wordpress!. 
 ## 1. Kenalan dulu
 1.1. Berkenalan dengan WordPress
 
